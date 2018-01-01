@@ -173,6 +173,9 @@ label festival:
     s 'Hi everyone, so um I am Sayori, the vice president of the Literature Club'
     s 'I am going to recite my poem, Dear Sunshine.'
     s '...'
+    'Sayori takes a deep breath.'
+    s ''
+
 
     return
 label nofestival:
